@@ -95,3 +95,19 @@ plt.show()
 sns.boxplot(x='Horas_Ejercicio', y='Nivel_Salud', data=datos)
 plt.title('Horas de ejercicio por Nivel de salud')
 plt.show()
+
+'''
+Nuevas opciones agregadas en mi programa original
+
+
+funcion 1 {
+
+}
+
+funcion 2 {
+
+}
+
+
+
+'''
